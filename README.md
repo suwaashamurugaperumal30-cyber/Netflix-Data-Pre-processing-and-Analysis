@@ -28,4 +28,6 @@ This project explores a dataset of movies to understand **genre distribution**, 
 - Python (Pandas, Matplotlib, Seaborn)
 - Jupyter Notebook
 
+Suwaasha Murugaperumal MSc Data Science and Analytics | University of Leeds | Aspiring Data Scientist LinkedIn Profile LinkedIn)
+
 
